@@ -11,7 +11,7 @@ export default function Home({ data }) {
 
   return (
     <div className={styles.container}>
-      <h3 className={styles.title}>Code With Prince</h3>
+      <h3 className={styles.title}>Customer Data Analysis</h3>
       <ChartGrid data={data}/>
     </div>
   )
